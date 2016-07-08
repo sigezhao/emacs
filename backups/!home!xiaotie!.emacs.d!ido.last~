@@ -1,0 +1,41 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/usr/" . "lib/")
+ ("/home/" . "xiaotie/")
+ ("/" . "usr/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/xiaotie/code/"
+ "/usr/lib/python2.7/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "#another.py#"
+ "test.py"
+ "csv.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/xiaotie/" (22394 20114 639730 114000) ".presage/" "视频/" "模板/" ".sudo_as_admin_successful" "公共的/" ".gconf/" "下载/" ".Xauthority" ".bash_logout" ".viminfo" ".emacs.d/" "./" ".xsession-errors.old" ".xsession-errors" ".cache/" "图片/" ".ssh/" "code/" "音乐/" ".bashrc" ".local/" ".dbus/" ".mozilla/" ".pki/" ".config/" "桌面/" ".gnupg/" ".bash_history" ".dmrc" ".ICEauthority" "../" "文档/" ".profile")
+
+ ("/home/xiaotie/code/" (22394 18306 220245 636000) "#another.py#" "./" "../" ".#another.py" "test.py")
+
+ ("/usr/lib/python2.7/" (22374 6144 547999 414000) "pydoc.py" "colorsys.py" "urllib.py" "contextlib.py" "_abcoll.pyc" "mutex.py" "os2emxpath.py" "pdb.py" "_weakrefset.py" "pickle.py" "mimetools.pyc" "shelve.py" "nntplib.py" "tempfile.pyc" "_weakrefset.pyc" "os.pyc" "urlparse.py" "unittest/" "posixfile.py" "__future__.py" "posixpath.pyc" "csv.py" "calendar.py" "_sysconfigdata.py" "subprocess.pyc" "optparse.py" "_LWPCookieJar.py" "abc.py" "platform.py" "htmlentitydefs.py" "pickletools.py" "dummy_threading.py" "multifile.py" "user.py" "smtplib.py" "hotshot/" "cgitb.py" "macurl2path.py" "pickle.pyc" "sre_compile.py" "gzip.pyc" "UserDict.pyc" "locale.pyc" "threading.py" "tokenize.pyc" "bisect.py" "pty.py" "timeit.py" "Queue.py" "dis.py" "code.py" "hashlib.pyc" "functools.py" "stat.pyc" "profile.py" "smtpd.py" "rlcompleter.py" "string.pyc" "httplib.pyc" "fractions.py" "SocketServer.py" "socket.py" "sre_constants.pyc" "xml/" "importlib/" "stringprep.py" "imaplib.py" "abc.pyc" "email/" "distutils/" "heapq.py" "shutil.pyc" "dis.pyc" "rfc822.py" "quopri.py" "bdb.py" "_osx_support.py" "wsgiref.egg-info" "sndhdr.py" "tokenize.py" "rexec.py" "hmac.py" "uu.py" "sre_parse.py" "shutil.py" "gettext.pyc" "py_compile.pyc" "sitecustomize.py" "aifc.py" "optparse.pyc" "ConfigParser.pyc" "stat.py" "urllib.pyc" "types.pyc" "__phello__.foo.py" "sha.py" "posixpath.py" "cProfile.py" "io.pyc" "dist-packages/" "argparse.egg-info" "copy_reg.pyc" "cookielib.py" "opcode.pyc" "sysconfig.pyc" "SimpleXMLRPCServer.py" "UserList.py" "getpass.py" "warnings.pyc" "re.pyc" "xmlrpclib.py" "linecache.py" "webbrowser.py" "filecmp.py" "sunaudio.py" "fnmatch.py" "sre_parse.pyc" "CGIHTTPServer.py" "ast.py" "whichdb.py" "codeop.py" "LICENSE.txt" "Cookie.py" "sysconfig.py" "_MozillaCookieJar.py" "runpy.py" "fpformat.py" "warnings.py" "urllib2.py" "SimpleHTTPServer.py" "inspect.pyc" "ssl.py" "bisect.pyc" "ihooks.py" "site.py" "tarfile.py" "_sysconfigdata.pyc" "dumbdbm.py" "atexit.py" "fileinput.py" "base64.pyc" "trace.py" "markupbase.py" "formatter.py" "anydbm.py" "numbers.py" "UserDict.py" "struct.py" "binhex.py" "sgmllib.py" "audiodev.py" "toaiff.py" "chunk.py" "BaseHTTPServer.py" "sets.py" "sqlite3/" "bsddb/" "opcode.py" "xmllib.py" "DocXMLRPCServer.py" "site.pyc" "sre_constants.py" "pstats.py" "tempfile.py" "sunau.py" "UserString.py" "MimeWriter.py" "robotparser.py" "symbol.py" "keyword.pyc" "mailbox.py" "difflib.py" "textwrap.pyc" "_strptime.py" "antigravity.py" "compileall.py" "ensurepip/" "weakref.pyc" "keyword.py" "curses/" "stringold.py" "cmd.py" "popen2.py" "linecache.pyc" "socket.pyc" "pipes.py" "asynchat.py" "_abcoll.py" "_threading_local.py" "this.py" "os.py" "ctypes/" "modulefinder.py" "weakref.py" "md5.py" "ConfigParser.py" "sre.py" "threading.pyc" "config-x86_64-linux-gnu/" "imghdr.py" "mimetools.py" "uuid.py" "pyclbr.py" "dbhash.py" "htmllib.py" "random.py" "statvfs.py" "urlparse.pyc" "base64.py" "pkgutil.py" "ntpath.py" "heapq.pyc" "pkgutil.pyc" "gettext.py" "nturl2path.py" "lib-dynload/" "sched.py" "decimal.py" "ftplib.py" "dummy_thread.py" "httplib.py" "contextlib.pyc" "Bastion.py" "copy.pyc" "urllib2.pyc" "getopt.pyc" "dircache.py" "types.py" "genericpath.pyc" "mhlib.py" "glob.py" "codecs.pyc" "asyncore.py" "json/" "multiprocessing/" "copy.py" "gzip.py" "__future__.pyc" "sre_compile.pyc" "xdrlib.py" "plat-x86_64-linux-gnu/" "re.py" "getopt.py" "glob.pyc" "codecs.py" "shlex.py" "new.py" "string.py" "encodings/" "sitecustomize.pyc" "traceback.pyc" "hashlib.py" "token.pyc" "io.py" "telnetlib.py" "lib2to3/" "inspect.py" "collections.py" "pydoc_data/" "subprocess.py" "HTMLParser.py" "test/" "symtable.py" "fnmatch.pyc" "mailcap.py" "functools.pyc" "ssl.pyc" "compiler/" "tty.py" "cgi.py" "struct.pyc" "imputil.py" "genericpath.py" "zipfile.py" "wave.py" "traceback.py" "collections.pyc" "_pyio.py" "locale.py" "pprint.py" "commands.py" "py_compile.py" "doctest.py" "logging/" "netrc.py" "poplib.py" "token.py" "lib-tk/" "atexit.pyc" "plistlib.py" "copy_reg.py" "random.pyc" "pdb.doc" "repr.py" "textwrap.py" "runpy.pyc" "mimetypes.py" "mimify.py" "argparse.py" "tabnanny.py" "macpath.py" "StringIO.py" "rfc822.pyc" "wsgiref/" "../" "./")
+
+ ("/usr/lib/" (22374 7209 137849 590000) "valgrind/" "ldscripts/" "python3.5/" "ubuntu-kylin-sso-client/" "shotwell/" "command-not-found" "xorg/" "girepository-1.0/" "SYSLINUX/" "libmbim/" "gnome-calculator/" "seahorse/" "gettext/" "avahi/" "X11/" "glib-networking/" "evolution-data-server/" "vmware-vgauth/" "openssh/" "syslinux/" "cups/" "gvfs/" "gnome-screensaver/" "ghostscript/" "emacsen-common/" "plainbox-provider-checkbox/" "geoclue/" "gcc/" "mime/" "NetworkManager/" "sasl2/" "dbus-1.0/" "policykit-1/" "plainbox-provider-resource-generic/" "compat-ld/" "pkg-config.multiarch" "evince/" "aspell/" "binfmt.d/" "gnome-session/" "sudo/" "modules-load.d/" "policykit-1-gnome/" "lp_solve/" "rsyslog/" "gnupg2/" "nautilus/" "./" "file-roller/" "bluetooth/" "apt/" "ispell/" "tcltk/" "indicators3/" "debug/" "software-properties/" "pppd/" "libnetpbm.so.10" "emacs/" "gnupg/" "unity-settings-daemon/" "pcmciautils/" "libunity-webapps/" "thunderbird-addons/" "perl5/" "aisleriot/" "pm-utils/" "libpeas-1.0/" "jayatana/" "gnome-keyring/" "man-db/" "vmware-tools/" "cheese/" "insserv/" "libnetpbm.so.10.0" "evolution/" "eject/" "libqmi/" "grub-legacy/" "nux/" "linux-boot-probes/" "fwupdate/" "firefox-addons/" "klibc/" "compiz/" "groff/" "thunderbird/" "unity-musicbaidu-daemon" "dconf/" "initramfs-tools/" "colord/" "tc/" "pkgconfig/" "ssl/" "python2.7/" "os-prober/" "snapd/" "rtkit/" "grub/" "dpkg/" "gnome-system-monitor/" "gnome-terminal/" "gold-ld/" "chromium-browser/" "xvmcconfig-standard/" "at-spi2-core/" "upstart/" "libreoffice/" "apg/" "rhythmbox/" "pulse-8.0/" "tmpfiles.d/" "lightdm/" "gs-plugins-9/" "gcr/" "ibus/" "unity-settings-daemon-1.0/" "os-probes/" "memtest86+/" "python3/" "accountsservice/" "gnome-user-share/" "tar/" "systemd/" "udisks2/" "unity-china-video-scope/" "locale/" "os-release" "ubiquity/" "nvidia/" "../" "x86_64-linux-gnu/" "eog/" "syslinux-legacy/" "upower/" "ubuntu-release-upgrader/" "update-notifier/" "language-selector/" "speech-dispatcher-modules/" "firefox/" "vmware-caf/" "gnome-settings-daemon-3.0/" "system-service/" "libaccount-plugin-1.0/" "vino/" "xserver-xorg-video-intel/")
+
+ ("/usr/" (22295 65468 0 0) "local/" "share/" "src/" "./" "bin/" "sbin/" "lib/" "games/" "locale/" "include/" "../")
+
+ ("/cdrom/" (22374 34399 779996 472000) "./" "../")
+
+ ("/home/" (22374 34486 199994 942000) "xiaotie/" "./" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

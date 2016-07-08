@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+print 1
+
+def echo_test(aaa):
+    print aaa
+
+echo_test(1111)
